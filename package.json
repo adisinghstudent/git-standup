@@ -1,0 +1,23 @@
+{
+  "name": "git-standup",
+  "version": "1.0.0",
+  "description": "Claude Code skill for instant project status: recent commits, open issues, and what's next",
+  "keywords": [
+    "claude-code",
+    "skill",
+    "git",
+    "standup",
+    "productivity",
+    "github"
+  ],
+  "author": "adi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adisinghstudent/git-standup"
+  },
+  "files": [
+    "status.md",
+    "README.md"
+  ]
+}
